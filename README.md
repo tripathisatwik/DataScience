@@ -7,3 +7,5 @@
         - FastAPI for predictions 
         - Scrapping using Requests + BeautifulSoup (Scrapper/scrapper.py)
         - Automation of a login (Automation/automation.py)
+
+# Install necessary packages and ChromeDriver before execution of any part 
